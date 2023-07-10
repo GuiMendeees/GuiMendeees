@@ -13,6 +13,7 @@ Sou um entusiasta por Machine Learning, embora não tenha atuado profissionalmen
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimendeees.si@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimendees/)
 
+[Trabalhos Acadêmicos](https://github.com/GuiMendeees/UFMG)
 <!--<center><h1><b>Projetos</h1></center>
 
 [Analytics]()
