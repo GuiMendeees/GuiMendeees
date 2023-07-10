@@ -8,4 +8,6 @@ Atuo a quatro anos na área de ciência de dados com atuação principalmente em
 - Desenvolvimento de Dashboards e Relatórios utilizando Power BI e Qlik Sense como ferramentas de visualização, Report Server e Nprinting como ferramentas de produção e envio de relatórios.
 - Criação de Scripts e Pipelines de ETL utilizando linguagem T-SQL e ferramentas como Pentaho e Visual Studio integrado aos pacotes SSIS. 
 
-Sou um entusiasta
+Sou um entusiasta por Machine Learning, embora não tenha atuado profissionalmente com atividades na área me dedico diariamente no aperfoiçoamento do meu conhecimento.
+
+## Projetos: 
