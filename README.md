@@ -1,5 +1,6 @@
 <center><h1><b> Sobre Mim</h1></center>
-Oi, me chamo Guilherme, sou graduando em Sistemas de Informação na UFMG e gradudo em Publicidade e Propagando pelo Centro Universitário UNA.
+Oi, me chamo Guilherme um profissional apaixonado por desafios. 
+Sou graduando em Sistemas de Informação na Universidade Federal de Minas Gerais e gradudo em Publicidade e Propagando pelo Centro Universitário UNA.
 Atuo a quatro anos na área de ciência de dados com atuação principalmente em atividades de Business Intelligence, sendo elas:
   
 - Levantamento de requisitos de dados em projetos
