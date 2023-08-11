@@ -21,9 +21,9 @@ Principais atividades realizadas na minha jornada profissional:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimendees/)
 
 [Trabalhos Acadêmicos](https://github.com/GuiMendeees/UFMG)
-<!--<center><h1><b>Projetos</h1></center>
+<center><h1><b>Projetos</h1></center>
 
-[Analytics]()
-[ML]()
+[Clustering - Machine Learning Em Progresso](https://github.com/GuiMendeees/Projetos/tree/main/Clustering)
+<!--[ML]()
 
 -->
