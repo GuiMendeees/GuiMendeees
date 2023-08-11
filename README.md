@@ -23,7 +23,7 @@ Principais atividades realizadas na minha jornada profissional:
 [Trabalhos Acadêmicos](https://github.com/GuiMendeees/UFMG)
 <center><h1><b>Projetos</h1></center>
 
-[Clustering - Machine Learning Em Progresso]([https://github.com/GuiMendeees/Projetos/tree/main/Clustering](https://github.com/GuiMendeees/Projetos/blob/main/Clustering/Clustering_Segmentação_de_Clientes.ipynb)https://github.com/GuiMendeees/Projetos/blob/main/Clustering/Clustering_Segmentação_de_Clientes.ipynb)
+[Clustering - Machine Learning Em Progresso]([https://github.com/GuiMendeees/Projetos/tree/main/Clustering](https://github.com/GuiMendeees/Projetos/blob/main/Clustering/Clustering_Segmentação_de_Clientes.ipynb)https://github.com/GuiMendeees/Projetos/blob/main/Clustering/Clustering_Segmentação_de_Clientes.ipynb])
 <!--[ML]()
 
 -->
