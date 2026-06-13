@@ -4,9 +4,9 @@ Sou graduado em Sistemas de Informação pela Universidade Federal de Minas Gera
 
 Comecei minha carreira profissional na área da Publicidade mas o meu interesse por inovação, meu perfil analítico e meu entusiasmo pela resolução de problemas complexos me levaram naturalmente ao universo da Tecnologia da Informação, com foco na Ciência de Dados.
 
-Possuo 5 anos de experiência profissional na área atuando em diversos segmentos de mercado, tive a oportunidade de participar de todo o processo de transformação de dados em inteligência de negócio nas empresas que trabalhei contribuindo de forma mais ativa como Analista de Dados.
+Possuo 6 anos de experiência profissional na área atuando em diversos segmentos de mercado, tive a oportunidade de participar de todo o processo de transformação de dados em inteligência de negócio nas empresas que trabalhei.
 
-A vontade de aprender e a curiosidade sempre guiaram minha vida, desde os primeiros semestres da graduação na UFMG tenho me dedicado profundamente a aprender e aplicar de forma prática, além das atividades de análise de dados, conhecimento e técnicas de Aprendizado de Máquina e Mineração de Dados para que eu possa me tornar um Cientista de Dados completo.
+A vontade de aprender e a curiosidade sempre guiaram minha vida, desde os primeiros semestres da graduação na UFMG tenho me dedicado profundamente a aprender e aplicar de forma prática para que eu possa me tornar um Cientista de Dados completo.
 
 Convido você a conhecer minha jornada profissional e acadêmica e nos conectarmos para compartilhar experiências e perspectivas.
 
