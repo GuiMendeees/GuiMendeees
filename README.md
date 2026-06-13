@@ -11,12 +11,12 @@ A vontade de aprender e a curiosidade sempre guiaram minha vida, desde os primei
 Convido você a conhecer minha jornada profissional e acadêmica e nos conectarmos para compartilhar experiências e perspectivas.
 
 Principais atividades realizadas na minha jornada profissional:
+- Testes A/B e Avaliações estatísticas
 - Levantamento de requisitos de dados em projetos
 - Elaboração de documentação, propostas técnicas e apresentações gerenciais
 - Análises exploratórias e diagnósticas para estudos AD HOC utilizando Python como linguagem de programação para as análises.
 - Desenvolvimento de Dashboards e Relatórios utilizando Power BI e Qlik Sense como ferramentas de visualização, Reporting Services e Nprinting como ferramentas de produção e envio de relatórios.
 - Criação de Scripts e Pipelines de ETL utilizando linguagem T-SQL e ferramentas como Pentaho e Visual Studio integrado aos pacotes SSIS.
-- Desenvolvimento de aplicações Low Code na ferramenta Microsoft PowerApps
 
 [![Contato](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guimendeees.si@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guimendees/)
